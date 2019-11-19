@@ -10,7 +10,7 @@
 
 <h3 id="2_hour">2 Hour</h3>
 
-<h2 id="lessson">Activities</h2>
+<h2 id="lesson">Lessons</h2>
 
 
 
