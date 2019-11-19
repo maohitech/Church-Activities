@@ -43,6 +43,7 @@ Demonstrate how to use "if" statements
 Demonstrate how to write loops
 
 7. Worksheet
+
 |Topic|Syntax|Examples|
 |:----|:------|:-------|
 |Math|Addition: 1 + 1\<br>Substraction: 2 - 1<br>Multiplication: 2 * 7<br>Division: 5 / 2| |
