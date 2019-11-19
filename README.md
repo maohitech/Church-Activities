@@ -6,12 +6,12 @@
 
 <h2 id="activities">Activities</h2>
 <h3 id="1_hour">1 Hour</h3>
-* [Javascript Activity]
+* [Javascript Activity](/../javascript_activity)
 
 <h3 id="2_hour">2 Hour</h3>
 
 <h2 id="gospel_lesson">Gospel Lessons</h2>
-* [Computer Security Analogies]
+* [Computer Security Analogies](/../compsec_analogies)
 
 
 
