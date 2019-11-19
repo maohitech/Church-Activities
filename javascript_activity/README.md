@@ -44,9 +44,10 @@ Demonstrate how to write loops
 
 7. Challenge
 
-10 | 50 | 100 | 500
-Print 723*131 | Is this value greater than 701*140 | Save greater value into a variable | Subtract this value until it becomes 0
-Store 123 in a variable | Put this variables into an array with 3 other numbers | Print all values in the array | Using a loop, print all values in increasing order
+|10 | 50 | 100 | 500
+|:--|:--:|:--:|--:|
+|Print 723*131 | Is this value greater than 701*140 | Save greater value into a variable | Subtract this value until it becomes 0|
+|Store 123 in a variable | Put this variables into an array with 3 other numbers | Print all values in the array | Using a loop, print all values in increasing order|
  
 <h2 id="worksheet">Worksheet</h2>
 
