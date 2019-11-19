@@ -14,7 +14,7 @@
 
 <h2 id="gospel_lesson">Gospel Lessons</h2>
 
-* [Computer Security Analogies](/../compsec_analogies)
+* [Computer Security Analogies](/compsec_analogies)
 
 
 
