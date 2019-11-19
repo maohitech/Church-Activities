@@ -19,21 +19,27 @@ Demonstrate how to do:
 * Multiplication / Division
 
 2.  Printing
+
 Demonstrate console.log()
 
 3.  Comments
+
 Demonstrate what a comment is
 
 4.  Variables
+
 Demonstrate how to store values in variables
 
 5. Arrays
+
 Demonstrate how to make arrays
 
 5. Conditionals
+
 Demonstrate how to use "if" statements
 
 6. Loops
+
 Demonstrate how to write loops
 
 <h2 id="worksheet">Worksheet</h2>
