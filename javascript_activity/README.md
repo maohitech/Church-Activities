@@ -51,15 +51,7 @@ Demonstrate how to write loops
 |Comment|// this does nothing| |
 |Variables|variable_name = VALUE|favoritenumber = 18<br>console.log(favoritenumber)|
 |Arrays|variable = [object_1, object_2, object_3, ...]|favoritenumbers = [18, 100, 13]<br>fruitbasket = ["apple", "orange", "fruit"]<br>mixedbasket = [1, "apple", 3]<br>fruitbasket[1]|
-|Conditionals|<code>if (value_1 < value_2) {
-
-  //DO_SOMETHING
-
-}
-</code>|<code>
-if ( 1 > 3) { console.log(“false”) }
-if ( 2 < 3) { console.log(“true”) } 
-</code>|
+|Conditionals|<code>if (value_1 < value_2) {<br>//DO_SOMETHING<br>}</code>|<code>if ( 1 > 3) {console.log(“false”)}<br>if ( 2 < 3) { console.log(“true”) }</code>|
 
 8. Challenge
 
