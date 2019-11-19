@@ -24,4 +24,4 @@
 <h3 id="webappsec">Web Application Security</h3>
 <h3 id="crypto">Cryptography</h3>
 	
-* [Mark 4:11]
+* [Mark 4:11](https://www.churchofjesuschrist.org/study/scriptures/nt/mark/4.11?lang=eng)
