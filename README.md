@@ -13,6 +13,7 @@
 <h3 id="2_hour">2 Hour</h3>
 
 <h2 id="gospel_lesson">Gospel Lessons</h2>
+
 * [Computer Security Analogies](/../compsec_analogies)
 
 
