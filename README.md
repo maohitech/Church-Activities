@@ -10,6 +10,7 @@
 
 * [Javascript Activity](javascript_activity.md)
 * [Penetration Testing Activity](pentest_activity.md)
+* [Tennis](touch_tennis.md)
 
 <h3 id="2_hour">2 Hour</h3>
 
