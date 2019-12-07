@@ -8,8 +8,8 @@
 
 <h3 id="1_hour">1 Hour</h3>
 
-* [Javascript Activity](/javascript_activity)
-* [Penetration Testing Activity](/pentest_activity)
+* [Javascript Activity](javascript_activity.md)
+* [Penetration Testing Activity](pentest_activity.md)
 
 <h3 id="2_hour">2 Hour</h3>
 
