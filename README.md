@@ -1,4 +1,6 @@
 # Activities
+Activities with spiritual lessons that can be done for one hour meetings.
+
 * [Activities](#activities)
 	* [1 hour](#1_hour)
 	* [2 hour](#2_hour)
@@ -11,8 +13,8 @@
 * [Javascript Activity](javascript_activity.md)
 * [Penetration Testing Activity](pentest_activity.md)
 * [Tennis](touch_tennis.md)
+* [Nerf Gun Fight](nerfgun.md)
 
-<h3 id="2_hour">2 Hour</h3>
 
 <h2 id="gospel_lesson">Gospel Lessons</h2>
 
